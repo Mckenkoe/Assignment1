@@ -1,0 +1,53 @@
+header {
+
+}
+
+nav {
+  background-color: rgb(40, 95, 197);
+  border-radius: 8px;
+  font-family: monospace;
+  font-size: 24px;
+  
+}
+
+main{
+  font-family: monospace;
+  font-size: 20px;
+}
+
+footer{
+  font-family: monospace;
+}
+
+a {
+  margin-left: 10px;
+  color: white;
+}
+
+body{
+  background-color: rgb(223, 238, 255)
+}
+
+h1 {
+  color: rgb(40, 95, 197);
+  text-shadow: 2px 4px rgb(255, 255, 255);
+}
+
+#odd{
+  background-color: rgb(173, 235, 255);
+}
+
+tr:nth-child(odd) {
+  background-color: black;
+  color: white;
+}
+
+table{
+  font-size: 1.5em;
+  font-family: serif;
+}
+
+#oddt{
+  background-color: lightgray;
+}
+
